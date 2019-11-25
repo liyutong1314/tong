@@ -24,3 +24,9 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+###  NetBeans ###
+hello world!
+
+# Default ignored files
+/workspace.xml
